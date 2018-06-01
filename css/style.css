@@ -7,7 +7,8 @@ body {
 	text-transform: uppercase;
 	color: white;
 	-webkit-font-smoothing: antialiased;
-	letter-spacing: 1px;
+  letter-spacing: 1px;
+  background-color: cornflowerblue;
 }
 
 img {
